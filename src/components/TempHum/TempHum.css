@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.TempHum {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.TempHum .box {
+  width: 85%;
+  height: 45%;
+  border-radius: 15px;
+  box-shadow: 2px 1px 5px 0 rgb(96,96,96);
+  background-color: rgba(192, 192, 192, 0.4);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.TempHum .box p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: 	rgb(240,240,240);
+  font-size: 40px;
+}

@@ -1,0 +1,25 @@
+.pannel {
+  width: 85%;
+  height: 30%;
+  display: grid;
+  border-radius: 15px 15px 0 0;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+  background-color: #ffffff;
+  padding-bottom: 40px;
+}
+
+button {
+  cursor:pointer;
+  background: #f3f3f3;
+  border: none;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  color: #717171;
+}
+
+.onoff {
+  background-color: red;
+}
