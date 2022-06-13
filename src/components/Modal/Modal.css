@@ -6,8 +6,8 @@
   border-radius: 10px;
   width: 30%;
   font-family: 'Open Sans', sans-serif;
-  margin-bottom: 40px;
-  vertical-align: middle;
+  margin-bottom: 20px;
+  bottom: 0;
 }
 
 .Modal div {

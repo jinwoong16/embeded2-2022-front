@@ -22,6 +22,7 @@
 .TempHum .box p {
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
+  letter-spacing: -5vpx;
   color: 	rgb(240,240,240);
-  font-size: 40px;
+  font-size: 65px;
 }
