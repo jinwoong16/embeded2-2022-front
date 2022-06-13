@@ -8,7 +8,7 @@ import TempHum from "./components/TempHum/TempHum";
 import { refresh } from "./action/index";
 
 function App() {
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [isOpen, setIsOpen] = useState(false);
   const [temp, setTemp] = useState("0°C");
   const [hum, setHum] = useState("0%");
