@@ -1,5 +1,5 @@
+import "./App.css";
 import React, { useState, useEffect } from "react";
-import "./App.css";;
 
 import Pannel from "./components/Pannel/Pannel";
 import Modal from "./components/Modal/Modal";
