@@ -6,5 +6,3 @@ This proeject's design is inspired by [dribble](https://dribbble.com/shots/67804
   <img src="./images/main.jpg" style="width: 300px" />
   <img src="./images/main.gif" style="width: 300px" />
 </p>
-
-## References
